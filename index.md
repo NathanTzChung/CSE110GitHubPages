@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Welcome to My World:
 <!-- omit in toc -->
-# Sections:
+# Sections: (Section Links)
 - [Population: 1, Person: Nathan Chung](#population-1-person-nathan-chung)
 - [Some Stuff About Me](#some-stuff-about-me)
 
@@ -16,8 +16,8 @@ And so here I am, trying to practice to learn more :)
 
 ## Some Stuff About Me
 Outside of programming, I like to listen to *music* (this could be pop, kpop, jpop, krnb, rnb, ballads, etc.), play *basketball*, watch *shows*, and *window shop*! Some clothing brands I like are:
-![Screenshot of UNIQLO](Photos\UNIQLO.JPG)
-![Screenshot of H&M](Photos\HandM.JPG)
+![Screenshot of UNIQLO](Photos/UNIQLO.JPG)
+![Screenshot of H&M](Photos/HandM.JPG)
 
 Here's my **favorite** song of all time:
 [song link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
